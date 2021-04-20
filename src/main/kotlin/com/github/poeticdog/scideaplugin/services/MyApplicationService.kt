@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.poeticdog.scideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.poeticdog.scideaplugin.MyBundle
 
 class MyApplicationService {
 
